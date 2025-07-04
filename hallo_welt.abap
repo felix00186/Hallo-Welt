@@ -1,0 +1,2 @@
+REPORT Z_HALLO_WELT.
+WRITE 'Hallo Welt!'.
